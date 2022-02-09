@@ -16,7 +16,7 @@ if (riggedNum > numSides){
 
 let randNum2 = Math.random();
 
-let riggedRoll = Math.floor(randNum2 * 2);
+let riggedRoll = Math.floor(randNum2 * 3);
 
 if (riggedRoll === 0){
 
